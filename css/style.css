@@ -174,7 +174,7 @@ i {
 
 .header.icons a:hover,
 .header.icons div:hover {
-  color: green;
+  color: rgb(0, 168, 0);
 }
 .header #menu-btn {
   display: none;
