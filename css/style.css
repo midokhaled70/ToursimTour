@@ -473,3 +473,15 @@ form label:hover {
 .footer .credit span {
   color: #219150;
 }
+
+
+
+
+@media (max-width: 1200px) {
+  .header {
+    padding: 2rem;
+  }
+  section {
+    padding: 3rem 2rem;
+  }
+}
