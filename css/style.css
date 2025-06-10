@@ -485,3 +485,28 @@ form label:hover {
     padding: 3rem 2rem;
   }
 }
+
+
+
+
+@media (max-width: 991px) {
+  html {
+    font-size: 55%;
+  }
+  .home .box {
+    padding: 2rem;
+    justify-content: center;
+    background-position: right !important;
+  }
+  .home .box .conent {
+    text-align: center;
+  }
+  .home .box .conent span {
+    font-size: 3rem;
+  }
+
+
+
+  
+   
+
