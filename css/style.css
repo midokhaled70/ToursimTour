@@ -523,10 +523,14 @@ form label:hover {
     z-index: 10000;
     width: 35rem;
     height: 100%;
-   
-
-
-  }
   
-   
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+    justify-content: center;
+  }
+  .header .navbar.active {
+    left: 0;
+    box-shadow: 0 0 0 100vw rgba(0, 0, 0, 0.8);
+  } 
 
