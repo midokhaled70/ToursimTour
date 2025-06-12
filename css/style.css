@@ -511,6 +511,22 @@ form label:hover {
 }
 
 
+@media (max-width: 768px) {
+  .header #menu-btn {
+    display: inline-block;
+  }
+  .header .navbar {
+    position: fixed;
+    top: 0;
+    left: -110%;
+    background: white;
+    z-index: 10000;
+    width: 35rem;
+    height: 100%;
+   
+
+
+  }
   
    
 
