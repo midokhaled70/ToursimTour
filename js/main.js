@@ -7,6 +7,12 @@ function ahmed(){
     console.log("ahmed");
 }
 ahmed();
+let a=12400;
+
+for (a;a<=20000;i++){
+    console.log(a);
+}
+
 
 
 
