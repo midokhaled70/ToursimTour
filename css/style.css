@@ -544,3 +544,16 @@ form label:hover {
     right: 2rem;
   } 
 
+
+
+  
+  .contact-form {
+    flex-direction: column;
+  }
+  .msg textarea {
+    height: 80px;
+  }
+  .input-fields,
+  .msg {
+    width: 100%;
+  }
