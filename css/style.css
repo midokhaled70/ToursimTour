@@ -532,5 +532,9 @@ form label:hover {
   .header .navbar.active {
     left: 0;
     box-shadow: 0 0 0 100vw rgba(0, 0, 0, 0.8);
+  }
+  .header .navbar a {
+    margin: 1rem 0;
+    font-size: 3rem;
   } 
 

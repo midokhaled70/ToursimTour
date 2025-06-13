@@ -21,5 +21,6 @@ let x;
 
 for (x=19435;x>22000;i+30){
 console.log(x);
+console.log(x+20);
 }
 
