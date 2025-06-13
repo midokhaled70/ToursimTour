@@ -23,4 +23,10 @@ for (x=19435;x>22000;i+30){
 console.log(x);
 console.log(x+20);
 }
-
+let navbar = document.querySelector('.header .navbar');
+document.querySelector('#menu-btn').onclick = () =>{
+    navbar.classList.add('active');
+}
+document.querySelector('#nav-close').onclick = () =>{
+    navbar.classList.remove('active');
+}
