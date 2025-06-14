@@ -12,7 +12,11 @@ let a=12400;
 for (a;a<=20000;i++){
     console.log(a);
     console.log(a*3)
+    if(a==4){
+        conosle.log("flase")
+    }
 }
+
 
 
 
