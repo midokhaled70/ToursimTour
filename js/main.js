@@ -35,3 +35,5 @@ document.querySelector('#menu-btn').onclick = () =>{
 document.querySelector('#nav-close').onclick = () =>{
     navbar.classList.remove('active');
 }
+//----------- Toggle Search Form Updated----------------//
+const searchBtn = document.getElementById('search-btn');

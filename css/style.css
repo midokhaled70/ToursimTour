@@ -553,4 +553,10 @@ form label:hover {
   .msg textarea {
     height: 80px;
   }
-
+.input-fields,
+  .msg {
+    width: 100%;
+  }
+  .input, textarea {
+    width: 60vw !important;
+  }
