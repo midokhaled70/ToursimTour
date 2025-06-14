@@ -560,3 +560,6 @@ form label:hover {
   .input, textarea {
     width: 60vw !important;
   }
+  .msg {
+    margin-left: -20px;
+  }

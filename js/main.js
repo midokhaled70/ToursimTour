@@ -36,4 +36,17 @@ document.querySelector('#nav-close').onclick = () =>{
     navbar.classList.remove('active');
 }
 //----------- Toggle Search Form Updated----------------//
-const searchBtn = document.getElementById('search-btn');
+const searchBtn = document.getElementById('search-btn');const closeSearch = document.getElementById('close-search');
+
+
+
+
+
+
+
+
+
+
+
+
+
