@@ -20,7 +20,7 @@ for (a;a<=20000;i++){
 
 
 
-
+letldljajlkdjkl
 
 let x;
 
