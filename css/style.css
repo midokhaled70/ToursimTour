@@ -563,3 +563,9 @@ form label:hover {
   .msg {
     margin-left: -20px;
   }
+form {
+    flex-direction: column;
+    width: 70vw;
+  }
+}
+
