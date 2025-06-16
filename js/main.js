@@ -39,11 +39,7 @@ const searchBtn = document.getElementById('search-btn');const closeSearch = docu
 
 
 
-
-
-
-
-
+const searchForm = document.querySelector('.search-form');
 
 
 
