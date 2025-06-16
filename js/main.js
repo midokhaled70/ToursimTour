@@ -20,8 +20,7 @@ for (a;a<=20000;i++){
 
 
 
-letldljajlkdjkl
-
+let d=33;
 let x;
 
 for (x=19435;x>22000;i+30){
