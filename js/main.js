@@ -45,5 +45,9 @@ searchBtn.addEventListener('click', () => {
     searchForm.classList.add('active');
 });
 
+closeSearch.addEventListener('click', () => {
+    searchForm.classList.remove('active');
+});
+
 
 
