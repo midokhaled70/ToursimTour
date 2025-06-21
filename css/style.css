@@ -578,3 +578,15 @@ form {
     .input, textarea {
     width: 70vw !important;
   }
+
+ form {
+    width: 50vw;
+  }
+  .wrapper1 {
+    padding: 10px;
+  }
+}
+
+
+
+
